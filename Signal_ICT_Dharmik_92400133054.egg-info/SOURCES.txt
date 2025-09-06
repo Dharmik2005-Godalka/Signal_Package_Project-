@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Signal_ICT_Dharmik_92400133054/__init__.py
+Signal_ICT_Dharmik_92400133054/operations.py
+Signal_ICT_Dharmik_92400133054/trigonometric_signals.py
+Signal_ICT_Dharmik_92400133054/unitary_signals.py
+Signal_ICT_Dharmik_92400133054.egg-info/PKG-INFO
+Signal_ICT_Dharmik_92400133054.egg-info/SOURCES.txt
+Signal_ICT_Dharmik_92400133054.egg-info/dependency_links.txt
+Signal_ICT_Dharmik_92400133054.egg-info/requires.txt
+Signal_ICT_Dharmik_92400133054.egg-info/top_level.txt
